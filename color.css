@@ -1,0 +1,57 @@
+.first{
+    height:80px;
+    background-color: red;
+}
+.second{
+    height:80px;
+    background-color: blue;
+
+}
+.third{
+    height:100px;
+    background-color:goldenrod;
+}
+.fourth{
+    height:80px;
+    background-color:green;
+}
+.fifth{
+    height:80px;
+    background-color:purple;
+}
+.sixth{
+    height:80px;
+    background-color:violet;
+ 
+}
+.seventh{
+    height:80px;
+    background-color:orangered;
+}
+.eighth{
+    height:80px;
+    background-color:yellowgreen;
+}
+ .nineth{
+    height:40px;
+    background-color:green;
+ }
+.tenth{
+    height:40px;
+    background-color:blue;
+}
+.eleventh{
+    height:40px;
+    background-color:darkred;
+}
+.twelevth{
+    height:40px;
+    background-color:darkblue; 
+}
+.thirteen{
+    height:20px;
+    background-color:black;
+}
+.container div{
+    border: 3px solid white;
+}
